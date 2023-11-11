@@ -1,5 +1,5 @@
 # MSDNet
-This website shares the code of the "A new multi-scale CNN with pixel-wise attention for image denoising" finished by Jibin Deng*, Chaohua Hu, Signal Image and Video Processing, 2023.
+This website shares the code of the "A new multi-scale CNN with pixel-wise attention for image denoising" finished by Jibin Deng*, Chaohua Hu, Signal, Image and Video Processing, 2023.
  
 # Prerequisites:
 
