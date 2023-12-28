@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-
 import argparse
 import logging
 import os, time, glob
@@ -19,7 +17,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--model', default='MSDNet', type=str, help='choose a type of model')
 parser.add_argument('--batch_size', default=20, type=int, help='batch size') #128
 parser.add_argument('--train_data', default='./data/waterloo5050grayimage/', type=str, help='path of train data')
-parser.add_argument('--test_dir', default='./data/Test/Set12', type=str, help='directory of test dataset') #original path ./data/Test/Set68
+parser.add_argument('--test_dir', default='./data/Test/Set12', type=str, help='directory of test dataset') #original path ./data/Test/BSD68
 parser.add_argument('--sigma',default=25, type =int,help='noise level')
 parser.add_argument('--epoch', default=50, type=int, help='number of train epoches')
 parser.add_argument('--lr', default=1e-3, type=float, help='initial learning rate for Adam')
