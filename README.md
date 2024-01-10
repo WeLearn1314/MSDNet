@@ -1,5 +1,5 @@
 # MSDNet
-A new multi-scale CNN with pixel-wise attention for image denoising (MSDNet) by Jibin Deng*, Chaohua Hu is publised in Signal, Image and Video Processing, 2023.
+A new multi-scale CNN with pixel-wise attention for image denoising (MSDNet) by Jibin Deng*, Chaohua Hu is published in Signal, Image and Video Processing, 2023.
  
 # Prerequisites:
 
@@ -21,7 +21,7 @@ python mainimprovement.py
 # Denoising Testing
 For test the MSDNet, please run:
 
-python mainimprovement.py --pretrain sigma/model_50.h5 --only_test True
+python mainimprovement.py --pretrain sigma (e.g., 15, 25 and 50)/model_50.h5 --only_test True
 
 # Denoising Datasets
 The gray train dataset "Train400" you can download here:
