@@ -1,5 +1,5 @@
 # MSDNet
-A new multi-scale CNN with pixel-wise attention for image denoising (MSDNet) by Jibin Deng*, Chaohua Hu is published in Signal, Image and Video Processing, 2023.
+A new multi-scale CNN with pixel-wise attention for image denoising (MSDNet) by Jibin Deng*, Chaohua Hu has been published in Signal, Image and Video Processing, 2023.
  
 # Prerequisites:
 
