@@ -3,15 +3,15 @@ A new multi-scale CNN with pixel-wise attention for image denoising (MSDNet) by 
  
 # Prerequisites:
 
-python == 3.6.2
+python
 
-tensorflow == 2.0.0
+tensorflow
 
-keras == 2.3.1
+keras
 
-opencv-python == 4.5.5.62
+opencv-python
 
-scikit-image == 0.17.2
+scikit-image
 
 # Denoising Training
 For train the MSDNet, please run:
